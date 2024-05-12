@@ -1,5 +1,8 @@
 const extendHex = (shortHex) => {
   // write your code here
+	forEach((currVal)={
+		console.log(currVal);
+	})
 };
 
 // Do not change the code below.
